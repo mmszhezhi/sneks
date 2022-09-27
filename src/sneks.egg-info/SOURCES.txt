@@ -1,0 +1,10 @@
+README.md
+main.py
+setup.py
+snek/__init__.py
+snek/example.py
+sneks.egg-info/PKG-INFO
+sneks.egg-info/SOURCES.txt
+sneks.egg-info/dependency_links.txt
+sneks.egg-info/entry_points.txt
+sneks.egg-info/top_level.txt

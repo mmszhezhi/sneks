@@ -1,0 +1,3 @@
+[console_scripts]
+cute = snek.example:fuck
+cute2 = main:start

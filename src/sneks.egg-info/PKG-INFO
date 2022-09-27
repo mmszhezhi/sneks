@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: sneks
+Version: 0.0.8
+Summary: An demonstration of how to create, document, and publish to the cheese shop a5 pypi.org.
+Home-page: http://packages.python.org/an_example_pypi_project
+Author: Andrew Carter
+Author-email: andrewjcarter@gmail.com
+License: BSD
+Keywords: example documentation tutorial
+Classifier: Development Status :: 3 - Alpha
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: BSD License
+
+# Example Package
+
+This is a simple example package. You can use
+[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+to write your content.
